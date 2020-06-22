@@ -110,6 +110,9 @@ dl {
   margin-top: 0;
   margin-bottom: 1rem;
 }
+ul.d-flex flex-column flex-lg-row justify-content-lg-end align-items-center {
+  background-color: #6c757d;
+}
 
 ol ol,
 ul ul,
